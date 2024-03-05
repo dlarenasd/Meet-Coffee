@@ -1,0 +1,45 @@
+body {
+    font-family:"Open Sans", sans-serif;
+    width: 1920px;
+}
+nav {   
+    height: 99px;
+    background-color: #000f08;
+    padding: 10px;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+header {
+    height: 422px;
+    background: transparent url('../img/bg-hero.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: #ffffff;
+    text-align: right;
+    padding-right: 50px;
+    padding-top: 50px;
+
+}
+header h1{
+    text-align: right;
+    font: normal normal 800 60px/82px Open Sans;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 6px #00000080;
+    opacity: 1;
+}
+
+header h2{
+    text-align: right;
+    font: normal normal normal 40px/55px Open Sans;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 6px #00000080;
+    opacity: 1;
+}
